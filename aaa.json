@@ -1,14 +1,247 @@
 [
     {
         "acronym": "A2B",
-        "meaning": "Automotive Audio Bus"
+        "meaning": "Automotive Audio Bus",
+        "description": "Designed to transmit high-quality audio and control data between various components within a vehicle, such as head units, amplifiers, speakers, microphones, etc."
     },
     {
         "acronym": "ADB",
-        "meaning": "Android Debug Bridge"
+        "meaning": "Android Debug Bridge",
+        "description": "Command-line tool that allows developers to communication with an Android device connected to a computer over a USB connection."
     },
     {
         "abbreviation": "ANT",
         "meaning": "Antenna"
+    },
+    {
+        "acronym": "AoU",
+        "meaning": "Assumptions of Use"
+    },
+    {
+        "acronym": "APSS",
+        "meaning": "Application Processor Sub-System (Arm Sub-System)"
+    },
+    {
+        "acronym": "BDS",
+        "meaning": "BeiDou Navigaiton Satellite System"
+    },
+    {
+        "acronym": "BLE",
+        "meaning": "Bluetooth Low Energy"
+    },
+    {
+        "acronym": "BSW",
+        "meaning": "Blind Spot Warning"
+    },
+    {
+        "acronym": "BT",
+        "meaning": "BlueTooth"
+    },
+    {
+        "acronym": "CAN",
+        "meaning": "Controller Area Network"
+    },
+    {
+        "acronym": "CCI",
+        "meaning": "Clock Control Interface",
+        "description": "Mechanism used in some I2C devices to control the clock signal (SCL)."
+    },
+    {
+        "acronym": "CSI",
+        "meaning": "Camera Serial Interface",
+        "description": "Transmits image data and control signals from an image sensor to a host processor or controller."
+    },
+    {
+        "abbreviation": "CN",
+        "meaning": "Connector"
+    },
+    {
+        "abbreviation": "DES",
+        "meaning": "Deserializer",
+        "description": "Converts data between serial and parallel interfaces."
+    },
+    {
+        "acronym": "DMS",
+        "meaning": "Driver Monitoring System"
+    },
+    {
+        "acronym": "DP",
+        "meaning": "Display Port",
+        "description": "Digital display interface."
+    },
+    {
+        "acronym": "DPU",
+        "meaning": "Display Processing Unit"
+    },
+    {
+        "acronym": "ECC",
+        "meaning": "Error Correcting Codes"
+    },
+    {
+        "acronym": "FAKRA",
+        "meaning": "Fachkreis Automobil RAdio"
+    },
+    {
+        "acronym": "FCW",
+        "meaning": "Front Collision Warning"
+    },
+    {
+        "acronym": "FTR",
+        "meaning": "Feature Technical Review"
+    },
+    {
+        "acronym": "GLONASS",
+        "meaning": "Global Navigation Satellite System"
+    },
+    {
+        "acronym": "GMSL",
+        "meaning": "Gigabit Multimedia Serial Link"
+    },
+    {
+        "acronym": "GMSL2(STP)",
+        "meaning": "Gigabit Multimedia Serial Link 2nd generation - Short Transmission Packet"
+    },
+    {
+        "acronym": "GNSS",
+        "meaning": "Global Navigation Satellite System (GPS, GLONASS, Galileo, BDS, NavIC)"
+    },
+    {
+        "acronym": "HFM",
+        "meaning": "High-Frequency FAKRA-Mini",
+        "description": "Camera connector."
+    },
+    {
+        "acronym": "HSD",
+        "meaning": "High-Speed (Data) Display",
+        "description": "Display connector."
+    },
+    {
+        "acronym": "I&W",
+        "meaning": "Indications and Warnings"
+    },
+    {
+        "acronym": "I-PDU",
+        "meaning": "IPC PDU"
+    },
+    {
+        "acronym": "I2C",
+        "meaning": "Inter-Integrated Circuit (serial communication protocol)"
+    },
+    {
+        "acronym": "IMU",
+        "meaning": "Inertial Measurement Unit"
+    },
+    {
+        "acronym": "IPC",
+        "meaning": "Inter-Process Communication"
+    },
+    {
+        "acronym": "LPI",
+        "meaning": "Low Power Idle"
+    },
+    {
+        "acronym": "MCU",
+        "meaning": "Microcontroller Unit"
+    },
+    {
+        "acronym": "MDIO",
+        "meaning": "Management Data Input/Output"
+    },
+    {
+        "acronym": "MISR",
+        "meaning": "Multiple Input Signature Register"
+    },
+    {
+        "acronym": "NavIC",
+        "meaning": "Navigation with Indian constellation"
+    },
+    {
+        "acronym": "PCI",
+        "meaning": "Peripheral Component Interconnect (devices to motherboard)"
+    },
+    {
+        "acronym": "PCIe",
+        "meaning": "Peripheral Component Interconnect Express"
+    },
+    {
+        "acronym": "PCM",
+        "meaning": "Pulse Code Modulation"
+    },
+    {
+        "acronym": "PDU",
+        "meaning": "Protocol Data Unit"
+    },
+    {
+        "abbreviation": "PHY",
+        "meaning": "Physical layer"
+    },
+    {
+        "acronym": "PT I2C",
+        "meaning": "Pulse Stretching"
+    },
+    {
+        "acronym": "QUP",
+        "meaning": "Quad UART Port"
+    },
+    {
+        "acronym": "SCB",
+        "meaning": "Serial Communication Block"
+    },
+    {
+        "abbreviation": "SER",
+        "meaning": "Serializer",
+        "description": "Converts data between serial and parallel interfaces."
+    },
+    {
+        "acronym": "SM",
+        "meaning": "Streaming Multiprocessor"
+    },
+    {
+        "acronym": "SMSS",
+        "meaning": "Safety Manager Sub-System"
+    },
+    {
+        "acronym": "SIP",
+        "meaning": "System Inline Package"
+    },
+    {
+        "acronym": "SoC",
+        "meaning": "System on Chip"
+    },
+    {
+        "acronym": "SPI",
+        "meaning": "Serial Peripheral Interface (serial communication protocol)"
+    },
+    {
+        "acronym": "TCM",
+        "meaning": "Transmission Control Module"
+    },
+    {
+        "acronym": "TDM",
+        "meaning": "Time Division Multiplexing"
+    },
+    {
+        "acronym": "Universal Asynchronous Receiver-Transmitter (physical circuit in a microcontroller to transfer serial data)",
+        "meaning": ""
+    },
+    {
+        "acronym": "UFS",
+        "meaning": "Universal Flash Storage"
+    },
+    {
+        "acronym": "USB",
+        "meaning": "Universal Serial Bus"
+    },
+    {
+        "acronym": "USB HS",
+        "meaning": "USB High-Speed (USB 2.0)"
+    },
+    {
+        "acronym": "USB SS",
+        "meaning": "USB Super-Speed (USB 3.0)"
+    },
+    {
+        "acronym": "VIP",
+        "meaning": "Vehicle Interface Processor"
     }
 ]
