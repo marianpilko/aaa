@@ -10,8 +10,9 @@
         "description": "Command-line tool that allows developers to communication with an Android device connected to a computer over a USB connection."
     },
     {
-        "abbreviation": "ANT",
-        "meaning": "Antenna"
+        "acronym": "ANT",
+        "meaning": "Adaptive Network Topology",
+        "description": "Proprietary (but open access) multicast wireless sensor network technology."
     },
     {
         "acronym": "AoU",
@@ -24,6 +25,10 @@
     {
         "acronym": "BDS",
         "meaning": "BeiDou Navigaiton Satellite System"
+    },
+    {
+        "acronym": "BIST",
+        "meaning": "Built-In Self Test"
     },
     {
         "acronym": "BLE",
