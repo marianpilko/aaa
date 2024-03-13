@@ -181,6 +181,10 @@
         "meaning": "Physical layer"
     },
     {
+        "acronym": "PMIC",
+        "meaning": "Power Management Integrated Circuit"
+    },
+    {
         "acronym": "PT I2C",
         "meaning": "Pulse Stretching"
     },
